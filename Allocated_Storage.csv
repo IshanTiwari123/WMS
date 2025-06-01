@@ -1,0 +1,101 @@
+Package ID,Package Dimensions (cm³),Package Weight (kg),Package Category,Package Priority,Storage ID,Remaining Storage Dimensions (cm³),Remaining Weight Capacity (kg),Distance
+P1,39966,24,Fragile,Low,S49,40264,174,Far
+P2,47253,9,Fragile,High,S36,21926,184,Near
+P3,3790,40,Fragile,Low,S3,67089,116,Far
+P4,23841,8,Fragile,Low,S63,38874,174,Near
+P5,40912,22,Non-Fragile,High,S83,39022,158,Near
+P6,25737,17,Fragile,Low,S33,46124,147,Far
+P7,16866,30,Fragile,Low,S59,60510,168,Far
+P8,37997,39,Fragile,High,S38,61568,131,Near
+P9,19846,47,Fragile,Low,S98,16088,132,Far
+P10,49749,49,Fragile,Low,S85,33962,125,Far
+P11,44185,18,Non-Fragile,Low,S15,54098,134,Far
+P12,29375,30,Fragile,Low,S44,46281,169,Far
+P13,11916,3,Non-Fragile,Low,S29,23659,181,Far
+P14,29338,15,Non-Fragile,Low,S100,67751,141,Far
+P15,18474,7,Fragile,Low,S48,43124,146,Far
+P16,47609,9,Non-Fragile,Low,S68,20196,183,Near
+P17,45873,12,Fragile,Low,S19,7523,158,Far
+P18,26735,41,Fragile,High,S47,12466,142,Near
+P19,2165,41,Fragile,Low,S43,55764,144,Far
+P20,45432,30,Non-Fragile,High,S86,10077,137,Near
+P21,31522,21,Fragile,High,S8,28629,157,Near
+P22,43138,16,Non-Fragile,High,S4,20525,157,Near
+P23,31541,31,Fragile,Low,S75,29133,139,Far
+P24,36876,4,Fragile,Low,S73,26558,186,Far
+P25,5745,33,Fragile,Low,S23,58251,135,Far
+P26,48181,14,Fragile,Low,S16,35354,160,Far
+P27,33431,24,Fragile,High,S1,41504,148,Near
+P28,20068,17,Non-Fragile,Low,S60,57967,152,Far
+P29,27161,6,Non-Fragile,Low,S92,48342,158,Far
+P30,6449,47,Non-Fragile,High,S12,69268,132,Near
+P31,24214,2,Fragile,Low,S5,67517,190,Near
+P32,13810,2,Fragile,Low,S17,77559,188,Near
+P33,46356,46,Non-Fragile,Low,S81,8722,132,Near
+P34,16319,29,Fragile,Low,S72,48221,148,Far
+P35,12764,48,Fragile,Low,S80,80472,105,Far
+P36,27533,14,Non-Fragile,High,S93,40728,136,Near
+P37,46897,5,Non-Fragile,High,S34,52967,183,Near
+P38,6269,22,Non-Fragile,Low,S96,30929,156,Far
+P39,30833,1,Non-Fragile,Low,S27,6125,162,Far
+P40,16563,43,Fragile,Low,S56,25855,146,Far
+P41,38779,20,Non-Fragile,Low,S67,15432,151,Near
+P42,25627,33,Non-Fragile,Low,S6,37831,160,Near
+P43,42665,45,Fragile,High,S41,38212,129,Near
+P44,2825,27,Non-Fragile,Low,S76,60578,147,Far
+P45,41005,7,Non-Fragile,High,S30,51529,172,Near
+P46,46534,34,Non-Fragile,High,S82,20012,143,Near
+P47,5213,37,Non-Fragile,Low,S58,33924,116,Far
+P48,31509,35,Non-Fragile,High,S89,35902,141,Near
+P49,25624,46,Non-Fragile,Low,S62,66162,106,Far
+P50,39477,49,Fragile,Low,S90,34973,125,Near
+P51,30771,47,Non-Fragile,Low,S95,1526,125,Near
+P52,35168,15,Non-Fragile,High,S79,24748,148,Near
+P53,10326,19,Non-Fragile,Low,S42,32822,177,Far
+P54,44225,21,Fragile,High,S87,48607,156,Near
+P55,19920,28,Fragile,High,S11,67931,122,Near
+P56,49037,13,Fragile,Low,S78,12943,180,Far
+P57,1704,20,Fragile,Low,S40,33269,140,Far
+P58,36567,2,Non-Fragile,Low,S65,38089,173,Far
+P59,16565,28,Fragile,High,S99,63093,140,Near
+P60,18525,8,Non-Fragile,High,S45,49756,155,Near
+P61,37645,29,Non-Fragile,High,S25,44006,147,Near
+P62,40469,25,Fragile,High,S57,52828,139,Near
+P63,14706,6,Fragile,High,S10,34062,168,Near
+P64,43810,28,Fragile,Low,S39,49846,152,Far
+P65,38952,3,Non-Fragile,Low,S97,27844,165,Far
+P66,26523,23,Fragile,Low,S51,73433,132,Far
+P67,5570,3,Fragile,Low,S91,76131,161,Far
+P68,6492,8,Fragile,Low,S35,34754,181,Far
+P69,36458,47,Non-Fragile,Low,S14,53068,113,Far
+P70,12975,2,Non-Fragile,Low,S18,85253,183,Far
+P71,33204,13,Non-Fragile,High,S20,9175,182,Near
+P72,17423,3,Fragile,Low,S46,32038,156,Far
+P73,35279,11,Non-Fragile,Low,S32,42235,147,Far
+P74,17275,33,Non-Fragile,High,S54,16930,153,Near
+P75,38762,30,Fragile,Low,S37,38960,131,Far
+P76,40281,15,Fragile,High,S53,1746,143,Near
+P77,16138,9,Fragile,High,S64,78808,147,Near
+P78,49302,5,Fragile,High,S26,1543,165,Far
+P79,22687,47,Non-Fragile,Low,S7,13167,142,Far
+P80,26106,41,Fragile,Low,S77,28119,136,Far
+P81,15360,44,Fragile,High,S13,77477,123,Far
+P82,44840,39,Non-Fragile,High,S21,15559,119,Far
+P83,41984,17,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P84,39208,33,Non-Fragile,High,No Storage Available,N/A,N/A,N/A
+P85,37762,22,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P86,35415,22,Fragile,Low,S69,2043,132,Far
+P87,45710,36,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P88,14009,33,Non-Fragile,Low,No Storage Available,N/A,N/A,N/A
+P89,24554,12,Non-Fragile,Low,No Storage Available,N/A,N/A,N/A
+P90,31143,10,Fragile,High,No Storage Available,N/A,N/A,N/A
+P91,15923,15,Non-Fragile,Low,No Storage Available,N/A,N/A,N/A
+P92,18382,15,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P93,47369,22,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P94,46952,11,Non-Fragile,High,No Storage Available,N/A,N/A,N/A
+P95,25172,17,Non-Fragile,High,No Storage Available,N/A,N/A,N/A
+P96,11237,47,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P97,42969,17,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P98,41245,36,Fragile,Low,No Storage Available,N/A,N/A,N/A
+P99,36921,5,Fragile,High,No Storage Available,N/A,N/A,N/A
+P100,39821,31,Fragile,Low,No Storage Available,N/A,N/A,N/A
