@@ -3,5 +3,5 @@
 
 1. Prerequisites
 Ensure you have Python 3.x installed.
-2.Install Dependencies:
+2. Install Dependencies:
 pip install pandas scikit-learn numpy joblib
